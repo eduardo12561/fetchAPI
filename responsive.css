@@ -1,0 +1,55 @@
+bodu{
+  margin: 0px;
+  padding: 0;;
+  height: 100vh;
+}
+
+.container {
+  margin: 20px;
+}
+
+@media (max-width:800px) {
+  .card{
+    flex: 100%;
+    max-width: 600px;
+  }
+}
+
+@media (max-width:800px) {
+  .card{
+    flex: 100%;
+    max-width: 400px;
+  }
+}
+
+
+
+@media (min-width:600px) {
+  .card{
+    flex: 100%;
+    max-width: 500px;
+  }
+}
+
+@media (min-width:500px) {
+  .card{
+    flex: 100%;
+    max-width: 500px;
+  }
+}
+
+@media (min-width:600px) {
+  .card{
+    flex: 100%;
+    max-width: 400px;
+  }
+}
+
+@media (min-width:600px) {
+  .card{
+    flex: 100%;
+    max-width: 300px;
+  }
+}
+
+
